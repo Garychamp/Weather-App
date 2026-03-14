@@ -8,6 +8,10 @@ This is a simple **Weather App** that lets you search for the current weather in
 - **Weather icon**
 - **Dynamic background color** that changes based on the weather (clear, cloudy, rainy, snowy, or default).
 
+### App Image
+
+![Weather App Screenshot](Assets/Images/app-image.png)
+
 ### Project Structure
 
 - **index.html**: Main HTML file that defines the app layout (`input`, `button`, and weather result area).
@@ -34,7 +38,7 @@ This is a simple **Weather App** that lets you search for the current weather in
 You can run it in two main ways:
 
 - **Option 1 – Open directly**  
-  Open `index.html` in your browser (double‑click or use "Open With").  
+  Open `index.html` in your browser (double‑click or use "Open With").
   - Note: Some browsers block `fetch` from local files. If the weather does not load, use Option 2.
 
 - **Option 2 – Use a local server (recommended)**  
@@ -84,4 +88,3 @@ If the city is not found, you will see **"City not found"** and the background r
 - Add **unit toggle** between °C and °F.
 - Improve **mobile responsiveness** and overall styling.
 - Hide the API key using a small backend or environment variables if deployed.
-
