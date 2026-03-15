@@ -8,6 +8,10 @@ This is a simple **Weather App** that lets you search for the current weather in
 - **Weather icon**
 - **Dynamic background color** that changes based on the weather (clear, cloudy, rainy, snowy, or default).
 
+### Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://Garychamp.github.io/weather-app/)
+
 ### App Image
 
 ![Weather App Screenshot](Assets/Images/app-image.png)
