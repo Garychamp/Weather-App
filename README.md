@@ -56,7 +56,7 @@ You can run it in two main ways:
 This app uses the **OpenWeatherMap** API. In `script.js`, there is a line:
 
 ```javascript
-const apiKey = "Your API Key"; // <-- Replace with your actual API key
+const apiKey = "778fb5f32120a15fb4fe652ae73486cc"; // <-- Replace with your actual API key
 ```
 
 - **Create your own API key** at [OpenWeatherMap](https://openweathermap.org/api).

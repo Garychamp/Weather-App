@@ -22,7 +22,7 @@ input.addEventListener("keypress", function(event) {
 async function getWeather() {
   try {
     const city = input.value;
-    const apiKey = "Your_API_Key"; // <-- Replace with your actual API key
+    const apiKey = "778fb5f32120a15fb4fe652ae73486cc"; // <-- Replace with your actual API key
 
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
